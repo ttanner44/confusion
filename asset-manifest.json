@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/confusion/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/confusion/static/js/main.0f7471ed.chunk.js",
+    "main.js.map": "/confusion/static/js/main.0f7471ed.chunk.js.map",
+    "runtime-main.js": "/confusion/static/js/runtime-main.ca52c56c.js",
+    "runtime-main.js.map": "/confusion/static/js/runtime-main.ca52c56c.js.map",
+    "static/js/2.16201312.chunk.js": "/confusion/static/js/2.16201312.chunk.js",
+    "static/js/2.16201312.chunk.js.map": "/confusion/static/js/2.16201312.chunk.js.map",
+    "static/js/3.b2c312fb.chunk.js": "/confusion/static/js/3.b2c312fb.chunk.js",
+    "static/js/3.b2c312fb.chunk.js.map": "/confusion/static/js/3.b2c312fb.chunk.js.map",
+    "index.html": "/confusion/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/confusion/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.16201312.chunk.js.LICENSE.txt": "/confusion/static/js/2.16201312.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/confusion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca52c56c.js",
+    "static/js/2.16201312.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0f7471ed.chunk.js"
+  ]
+}
